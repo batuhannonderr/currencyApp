@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url(images/business-person-working-wood-table-flat-lay-background_35719-145.avif);
+  background-position: center;
+   background-repeat: no-repeat;  /*  resim tekrarlanmasın */
+  background-size: cover;
+  overflow: hidden;
+
+} 
+/* app css */
